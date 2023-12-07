@@ -1,0 +1,1 @@
+En este proyecto se realizaron dos estructuras de datos implementadas pro mi persona las cuales estas estructuras de datos son el HashTable, Arbol binario. Se utilizó un excel con lo cual este simulaba nuestra base de datos.
